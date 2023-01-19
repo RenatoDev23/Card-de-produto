@@ -14,7 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-- [Acesse o projeto finalizado, online](https://renatodev23.github.io/projeto/)
+- [Acesse o projeto finalizado, online](https://renatodev23.github.io/Card-de-produto/)
+
 
 ## Licença
 

@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+este projeto e uma aplicaçao web para compras (Em desenvolvimento )
 
 - [Acesse o projeto finalizado, online](https://renatodev23.github.io/projeto/)
 
